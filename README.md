@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">🌟 Sharing my knowledgewith others with my tech journey and projects! 🌟</h3>
 
-<img width="400" align="right" alt="coding" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477wukyl8jtmt5eersufgkadwex8362pz128ms129h&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
+<img width="300" align="right" alt="coding" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477wukyl8jtmt5eersufgkadwex8362pz128ms129h&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
 
 <p align="left"> <a href="https://twitter.com/@karans_twt" target="blank"><img src="https://img.shields.io/twitter/follow/@karans_twt?logo=twitter&style=for-the-badge" alt="@karans_twt" /></a> </p>
 
