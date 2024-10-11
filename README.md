@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan</h1>
-<h3 align="center">🌟 Sharing my knowledgewith others with my tech journey and projects! 🌟</h3>
+<h3 align="center">🌟 Sharing my knowledge with others with my tech journey and projects! 🌟</h3>
 
 <img width="300" align="right" alt="coding" src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e477wukyl8jtmt5eersufgkadwex8362pz128ms129h&ep=v1_gifs_search&rid=giphy.gif&ct=g"> 
 
