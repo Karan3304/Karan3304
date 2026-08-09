@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/@karans_twt" target="blank"><img src="https://img.shields.io/twitter/follow/@karans_twt?logo=twitter&style=for-the-badge" alt="@karans_twt" /></a> </p>
 
-- 👯 I’m looking to collaborate on [apache spuperset](https://github.com/Karan3304/superset)
-
 - 📫 reach me through **karan.swami0303@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
